@@ -10,6 +10,7 @@ This repository contains my daily notes, labs, Packet Tracer exercises, Linux co
 - Notes
 - Resources
 - Questions
+- Wireshark
 
 ## Goals
 
