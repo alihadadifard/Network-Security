@@ -1,10 +1,35 @@
 Question 001
+0. What is network?
+. A network is a group of devices connected together so they can exchange information and communicate with each other.
 
 1. What is a LAN?
+ . LAN stands for Local Area Network.
+ . It is a network that connects devices within a limited area such as a home, office, or campus.
+
 2. What is a Router?
+. A router is a device that connects different networks together.
+. Its job is to forward packets between networks.
+
 3. What is a Switch?
+. LAN stands for Local Area Network.
+. It is a network that connects devices within a limited area such as a home, office, or campus.
+
 4. What is a Client?
+. A client is a device or application that requests a service.
+. Example: a web browser requesting a webpage.
+
 5. What is a Host?
+. A host is any device connected to a network that has an IP address.
+. Examples: computers, laptops, servers, printers.
+
 6. What is a Server?
+. A server is a device or application that provides services to clients.
+. Examples: web servers, mail servers, file servers.
+
 7. What is a Firewall?
+. A firewall is a security system that monitors and controls incoming and outgoing network traffic.
+. It can allow or block traffic based on security rules.
+
 8. What is an NGFW?
+. NGFW stands for Next Generation Firewall.
+. It is an advanced firewall that can inspect applications, detect malware, and provide intrusion prevention in addition to traditional filtering.
