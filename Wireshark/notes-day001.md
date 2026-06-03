@@ -1,4 +1,4 @@
-# Day 002 - Wireshark
+# Day 001 - Wireshark
 
 ## Completed
 
