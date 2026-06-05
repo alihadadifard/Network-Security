@@ -34,3 +34,5 @@
 ## 8. What is an NGFW?
 . NGFW stands for Next Generation Firewall.
 . It is an advanced firewall that can inspect applications, detect malware, and provide intrusion prevention in addition to traditional filtering.
+## 9. What is a Packet?
+. A packet is a small unit of data transmitted across a network.
