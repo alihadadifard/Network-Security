@@ -27,7 +27,10 @@ This repository contains my daily notes, labs, Packet Tracer exercises, Linux co
 * Day 002 ✅
 * Day 003 ✅
 * Day 004 ✅
+- Day 005 ✅
+- Day 006 ✅
 
+- 
 ### Current Focus
 
 * Networking Fundamentals
